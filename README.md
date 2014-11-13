@@ -1,4 +1,4 @@
-# Learn Ruby Test-First
+# Wendy Learn Ruby Test-First
 
 ## Setup
 
